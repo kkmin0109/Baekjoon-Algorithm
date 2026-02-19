@@ -1,6 +1,6 @@
 # Baekjoon-Algorithm
 # 🚀 Baekjoon Algorithm Study
-고려대학교 기계공학과 000의 알고리즘 공부 기록입니다.
+강민기 C++ 알고리즘 공부 기록
 
 ## 🛠 Tech Stack
 - **Language:** C++
